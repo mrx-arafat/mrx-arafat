@@ -2,7 +2,7 @@
 <h3 align="center">A self taught frontend developer from Bangladesh</h3>
 <h5 align="center">I am moving forward with this Mission Rehearsal & Exercise(💪MRX) </h5>
 
-<a href="https://facebook.com/e4rafat" target="blank"><img align="center" src="https://media4.giphy.com/media/eH48BmeDDWbtKlmlDA/giphy.gif?cid=ecf05e473lx8xdmi2069mfqs6opjgt978o4m237qhqa8z6lq&rid=giphy.gif&ct=g" alt="e4rafat" height="4000px" width="200px" /></a>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrx-arafat&label=Profile%20views&color=0e75b6&style=flat" alt="mrx-arafat" /> </p>
 
@@ -30,6 +30,8 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p ><img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=mrx-arafat&show_icons=true&locale=en&layout=compact" alt="mrx-arafat" /></p>
+
+<a href="https://facebook.com/e4rafat" target="blank"><img align="center" src="https://media4.giphy.com/media/eH48BmeDDWbtKlmlDA/giphy.gif?cid=ecf05e473lx8xdmi2069mfqs6opjgt978o4m237qhqa8z6lq&rid=giphy.gif&ct=g" alt="e4rafat" height="400px" width="200px" /></a>
 
 <h3 align="left"> Score: </h3>
 
