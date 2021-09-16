@@ -31,7 +31,7 @@
 
 <p ><img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=mrx-arafat&show_icons=true&locale=en&layout=compact" alt="mrx-arafat" /></p>
 
-<a href="https://facebook.com/e4rafat" target="blank"><img align="center" src="https://media4.giphy.com/media/eH48BmeDDWbtKlmlDA/giphy.gif?cid=ecf05e473lx8xdmi2069mfqs6opjgt978o4m237qhqa8z6lq&rid=giphy.gif&ct=g" alt="e4rafat" height="250px" width="200px" /></a>
+<a href="https://facebook.com/e4rafat" target="blank"><img align="center" src="https://media4.giphy.com/media/eH48BmeDDWbtKlmlDA/giphy.gif?cid=ecf05e473lx8xdmi2069mfqs6opjgt978o4m237qhqa8z6lq&rid=giphy.gif&ct=g" alt="e4rafat" height="140px" width="100px" /></a>
 
 <h3 align="left"> Score: </h3>
 
