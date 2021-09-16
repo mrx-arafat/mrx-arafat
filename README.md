@@ -8,7 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/e4rafat" target="blank"><img src="https://img.shields.io/twitter/follow/e4rafat?logo=twitter&style=for-the-badge" alt="e4rafat" /></a> </p>
 
--  ✨ Hi! I am a college student interested in web development. I learnt eveything from taking various e-learning courses from coursera, udemy, youtube and many more.
+<a href="https://facebook.com/e4rafat" target="blank"><img align="center" src="https://media3.giphy.com/media/CaiVJuZGvR8HK/giphy.gif?cid=ecf05e47d820fqmqp5801bzk4g1uy0mmoprdb95b9km16v9w&rid=giphy.gif&ct=g" alt="e4rafat" height="30" width="40" /></a>
+
+- ✨ Hi! I am a college student interested in web development. I learnt eveything from taking various e-learning courses from coursera, udemy, youtube and many more.
 
 - 🌱 I’m currently learning **ReactJS.**
 
@@ -25,7 +27,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-
 <p ><img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=mrx-arafat&show_icons=true&locale=en&layout=compact" alt="mrx-arafat" /></p>
+
+<h3 align="left"> Score: </h3>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrx-arafat&show_icons=true&locale=en" alt="mrx-arafat" /></p>
