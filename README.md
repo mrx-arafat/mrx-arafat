@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arafat.</h1>
 <h3 align="center">A self taught frontend developer from Bangladesh. I Spend most of time coding outstanding projects.</h3>
-<h5 align="center">I am moving forward with this Mission Rehearsal & Exercise(💪MRX) </h5>
+<h5 align="center">I am moving forward with this Mission Rehearsal & Exercise(💪MRX) xD </h5>
 
 
 
@@ -14,7 +14,7 @@
 
 - ✨ Hi! I am a college student interested in web development. I learnt eveything from taking various e-learning courses from coursera, udemy, skill-share, youtube and many more.
 
-- 🌱 I’m currently learning **ReactJS & nodeJS** so that I can become a pro MERN-stack Developer 
+- 🌱 I’m currently learning **MERN** 
 
 - 👯 I’m looking to collaborate on **open source projects**
 
@@ -23,10 +23,9 @@
 
 #### Contact with me 
 
-:coffee: &emsp; 
-
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/e4rafat) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/e4rafat/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/e4rafat) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/e4rafat) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arafatmrx@gmail.com)
 
+:coffee: &emsp; 
 
 #### Things I code with
 
