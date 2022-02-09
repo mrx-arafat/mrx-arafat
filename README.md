@@ -21,7 +21,8 @@
 - 📫 How to reach me **arafatmrx@gmail.com**
 
 
-:coffee: &emsp;Connect with me!
+:coffee: &emsp; 
+#### Contact with me 
 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/e4rafat) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/e4rafat/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/e4rafat) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/e4rafat) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arafatmrx@gmail.com)
 
@@ -32,6 +33,9 @@
 
 <a href="https://facebook.com/e4rafat" target="blank"><img align="center" src="https://media4.giphy.com/media/eH48BmeDDWbtKlmlDA/giphy.gif?cid=ecf05e473lx8xdmi2069mfqs6opjgt978o4m237qhqa8z6lq&rid=giphy.gif&ct=g" alt="e4rafat" height="140px" width="100px" /></a>
 
-<h3 align="left"> Score: </h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrx-arafat&show_icons=true&locale=en" alt="mrx-arafat" /></p>
+#### Github Stats
+
+![Arafat's github stats](https://github-readme-stats.vercel.app/api?username=mrx-arafat&count_private=true&theme=tokyonight&hide=contribs,prs)
+
+</details>
