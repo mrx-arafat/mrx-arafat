@@ -10,9 +10,9 @@
 
 <p align="left"> <a href="https://twitter.com/e4rafat" target="blank"><img src="https://img.shields.io/twitter/follow/e4rafat?logo=twitter&style=for-the-badge" alt="e4rafat" /></a> </p>
 
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60">
 
-
-- ✨ Hi! I am a college student interested in web development. I learnt eveything from taking various e-learning courses from coursera, udemy, skill-share, youtube and many more. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
+- ✨ Hi! I am a college student interested in web development. I learnt eveything from taking various e-learning courses from coursera, udemy, skill-share, youtube and many more. 
 
 - 🌱 I’m currently learning **MERN** 
 
