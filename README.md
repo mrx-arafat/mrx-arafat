@@ -12,9 +12,9 @@
 
 
 
-- ✨ Hi! I am a college student interested in web development. I learnt eveything from taking various e-learning courses from coursera, udemy, skill-share, youtube and many more.
+- ✨ Hi! I am a college student interested in web development. I learnt eveything from taking various e-learning courses from coursera, udemy, skill-share, youtube and many more. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
 
-- 🌱 I’m currently learning **MERN** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
+- 🌱 I’m currently learning **MERN** 
 
 - 👯 I’m looking to collaborate on **open source projects**
 
