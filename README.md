@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arafat.</h1>
-<h3 align="center">A self taught frontend developer from Bangladesh. I Spend most of time coding outstanding projects.</h3>
+<h3 align="center">A self-taught web developer from Bangladesh. I Spend most of my time coding outstanding projects.</h3>
 <h5 align="center">I am moving forward with this Mission Rehearsal & Exercise(💪MRX) xD </h5>
 
 
