@@ -6,11 +6,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrx-arafat" alt="mrx-arafat" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/e4rafat" target="blank"><img src="https://img.shields.io/twitter/follow/e4rafat?logo=twitter&style=for-the-badge" alt="e4rafat" /></a> </p>
+
 
 - 🛡️ Focused on Cybersecurity: Cryptography, Digital Forensics, Network Security, and Ethical Hacking.
   
-<img src="https://media.giphy.com/media/IeKgCDlpTqRQbZEhBF/giphy.gif" width="60">
+<img src="[https://media.giphy.com/media/IeKgCDlpTqRQbZEhBF/giphy.gif](https://media3.giphy.com/media/qwi7fF1bfJQMPlTZ43/giphy.gif?cid=ecf05e474w6vi19u77wfxbqkb13r22g19heinvdsnbaj631e&ep=v1_stickers_search&rid=giphy.gif&ct=s)" width="60">
+
+
 
 - 🌱 Currently enhancing my skills in **Advanced Cybersecurity Techniques** and **MERN Stack Development**.
 
