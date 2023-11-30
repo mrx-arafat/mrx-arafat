@@ -15,7 +15,7 @@
   
 <img src="https://media.giphy.com/media/IeKgCDlpTqRQbZEhBF/giphy.gif" width="60">
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/qwi7fF1bfJQMPlTZ43" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/1000startupdigital-hacker-developer-programmer-qwi7fF1bfJQMPlTZ43">via GIPHY</a></p>
+<img src="https://media3.giphy.com/media/qwi7fF1bfJQMPlTZ43/giphy.gif?cid=ecf05e474w6vi19u77wfxbqkb13r22g19heinvdsnbaj631e&amp;ep=v1_stickers_search&amp;rid=giphy.gif&amp;ct=s" alt="Hacking Software Developer Sticker by Gerakan Nasional 1000 Startup Digital" style="width: 500px; height: 500px; left: 0px; top: 0px;">
 
 - 🌱 Currently enhancing my skills in **Advanced Cybersecurity Techniques** and **MERN Stack Development**.
 
