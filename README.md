@@ -10,8 +10,9 @@
 
 - 🛡️ Focused on Cybersecurity: Cryptography, Digital Forensics, Network Security, and Ethical Hacking.
   
-<img src="[https://media.giphy.com/media/IeKgCDlpTqRQbZEhBF/giphy.gif](https://media3.giphy.com/media/qwi7fF1bfJQMPlTZ43/giphy.gif?cid=ecf05e474w6vi19u77wfxbqkb13r22g19heinvdsnbaj631e&ep=v1_stickers_search&rid=giphy.gif&ct=s)" width="60">
 
+
+<iframe src="https://giphy.com/embed/qwi7fF1bfJQMPlTZ43" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/1000startupdigital-hacker-developer-programmer-qwi7fF1bfJQMPlTZ43">via GIPHY</a></p>
 
 
 - 🌱 Currently enhancing my skills in **Advanced Cybersecurity Techniques** and **MERN Stack Development**.
