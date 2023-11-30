@@ -7,16 +7,12 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrx-arafat" alt="mrx-arafat" /></a> </p>
 
 
+<img src="https://media2.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif?cid=ecf05e474w6vi19u77wfxbqkb13r22g19heinvdsnbaj631e&amp;ep=v1_stickers_search&amp;rid=giphy.gif&amp;ct=s" alt="Black Cat Sticker by TRU LUV" style="width: 500px; height: 343px; left: 0px; top: 0px;">
+
+
 
 - 🛡️ Focused on Cybersecurity: Cryptography, Digital Forensics, Network Security, and Ethical Hacking.
   
-
-
-  
-<img src="https://media.giphy.com/media/IeKgCDlpTqRQbZEhBF/giphy.gif" width="60">
-
-<img src="https://media3.giphy.com/media/qwi7fF1bfJQMPlTZ43/giphy.gif?cid=ecf05e474w6vi19u77wfxbqkb13r22g19heinvdsnbaj631e&amp;ep=v1_stickers_search&amp;rid=giphy.gif&amp;ct=s" alt="Hacking Software Developer Sticker by Gerakan Nasional 1000 Startup Digital" style="width: 500px; height: 500px; left: 0px; top: 0px;">
-
 - 🌱 Currently enhancing my skills in **Advanced Cybersecurity Techniques** and **MERN Stack Development**.
 
 - 👯 Looking to collaborate on **cybersecurity projects and innovative web development initiatives**.
