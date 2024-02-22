@@ -2,7 +2,6 @@
 <h3 align="center">A Passionate Cybersecurity Specialist and Web Developer from Bangladesh</h3>
 <h5 align="center">Combining cutting-edge cybersecurity knowledge with web development to create secure and efficient digital solutions.</h5>
 
-<script src="https://tryhackme.com/badge/1939734"></script>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrx-arafat" alt="mrx-arafat" /></a> </p>
 
