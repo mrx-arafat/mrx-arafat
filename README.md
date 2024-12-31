@@ -8,17 +8,19 @@
 
 <img src="https://media2.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif?cid=ecf05e474w6vi19u77wfxbqkb13r22g19heinvdsnbaj631e&amp;ep=v1_stickers_search&amp;rid=giphy.gif&amp;ct=s" alt="Black Cat Sticker by TRU LUV" style="width: 100px; height: 63px; left: 0px; top: 0px;">
 
-
-
-- 🛡️ Focused on Cybersecurity: Cryptography, Digital Forensics, Network Security, and Ethical Hacking.
+<div align="center">
+ 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrx-arafat&theme=transparent)
   
-- 🌱 Currently enhancing my skills in **Advanced Cybersecurity Techniques** and **MERN Stack Development**.
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrx-arafat&theme=transparent)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mrx-arafat&theme=transparent)
 
-- 👯 Looking to collaborate on **cybersecurity projects and innovative web development initiatives**.
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mrx-arafat&theme=transparent) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mrx-arafat&theme=transparent&utcOffset=2)
 
-- 📫 Reach me at **arafatmrx@gmail.com**
+  
+</div>
 
-#### Connect with Me
 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/e4rafat) 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/e4rafat/) 
@@ -26,27 +28,5 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/e4rafat) 
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arafatmrx@gmail.com)
 
-:coffee: &emsp; 
 
-#### Skills and Expertise
 
-[![Cybersecurity Badge](https://img.shields.io/badge/-Cybersecurity-3C873A?style=for-the-badge&labelColor=black&logo=security&logoColor=3C873A)](#) 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  
-[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
-[![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#) 
-[![VSCode Badge](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](#) 
-[![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#) 
-
-<details>
-<summary>
-  More About Me
-</summary>
-
-<br >
-
-Passionate about embracing new challenges in cybersecurity and web development. A lifelong learner eager to explore and grow in the tech world.
-<br>
-Here is the FLAG{wh0_am_1?} !!
-<img src="https://media3.giphy.com/media/eZBJ45h3X2ti2vM6Do/giphy.gif?cid=ecf05e474w6vi19u77wfxbqkb13r22g19heinvdsnbaj631e&amp;ep=v1_stickers_search&amp;rid=giphy.gif&amp;ct=s" alt="Eyes Look Sticker by Alb Animation" style="width: 500px; height: 375px; left: 0px; top: 0px;">
-
-</details>
