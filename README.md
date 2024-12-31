@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Arafat</h1>
+<h1 align="center">Hi, I'm Arafat.</h1>
 <h3 align="center">Application Security Engineer at Startise</h3>
 
 <p align="center">
@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
- <a href="https://linkedin.com/in/mrx-arafat"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
- <a href="https://twitter.com/mrx_arafat"><img src="https://img.shields.io/badge/Twitter-000000?style=flat&logo=x&logoColor=white"/></a>
+ <a href="https://linkedin.com/in/e4rafat"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+ <a href="https://twitter.com/easinxarafat"><img src="https://img.shields.io/badge/Twitter-000000?style=flat&logo=x&logoColor=white"/></a>
 </p>
 
 <p align="center">
@@ -59,7 +59,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrx-arafat&theme=transparent)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mrx-arafat&theme=transparent)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mrx-arafat&theme=transparent) 
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mrx-arafat&theme=transparent&utcOffset=2)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mrx-arafat&theme=transparent&utcOffset=6)
  
 </div>
 
