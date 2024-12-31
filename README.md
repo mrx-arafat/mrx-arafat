@@ -1,4 +1,4 @@
-<h1 align="center">Arafat</h1>
+<h1 align="center">Hi, I'm Arafat</h1>
 <h3 align="center">Application Security Engineer at Startise</h3>
 
 <p align="center">
@@ -11,13 +11,13 @@
 </p>
 
 <p align="center">
- A security enthusiast and entrepreneur building secure digital solutions.<br>
- Specializing in application security, penetration testing, and business innovation.<br>
+  Application Security Engineer with an entrepreneurial mindset.<br>
+  Building secure solutions while pursuing business innovation.
 </p>
 
-<h3 align="center">Expertise</h3>
+<h3 align="center">Areas of Focus</h3>
 
-<h4 align="center">Cybersecurity & Offensive Security</h4>
+<h4 align="center">Cybersecurity Research & Offensive Security</h4>
 <p align="center">
  <img src="https://img.shields.io/badge/Web_Security-FF6B6B?style=flat"/>
  <img src="https://img.shields.io/badge/Network_Security-1679A7?style=flat"/>
@@ -27,7 +27,7 @@
  <img src="https://img.shields.io/badge/CTF_Player-ED1C24?style=flat"/>
 </p>
 
-<h4 align="center">Business & Innovation</h4>
+<h4 align="center">Business & Mindset</h4>
 <p align="center">
  <img src="https://img.shields.io/badge/Startup_Development-FFB000?style=flat"/>
  <img src="https://img.shields.io/badge/Business_Strategy-4A154B?style=flat"/>
