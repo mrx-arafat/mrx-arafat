@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Arafat.</h1>
+<h1 align="center">Hi, I'm Easin Arafat.</h1>
 <h3 align="center">Application Security Engineer at Startise</h3>
 
 <p align="center">
@@ -6,6 +6,7 @@
 </p>
 
 <p align="center">
+ <a href="https://www.arafatops.com"><img src="https://img.shields.io/badge/Portfolio-arafatops.com-22c55e?style=flat&logo=googlechrome&logoColor=white"/></a>
  <a href="https://linkedin.com/in/e4rafat"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
  <a href="https://twitter.com/easinxarafat"><img src="https://img.shields.io/badge/Twitter-000000?style=flat&logo=x&logoColor=white"/></a>
 </p>
